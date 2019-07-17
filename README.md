@@ -3,5 +3,5 @@ Mining Github repositories, in order to get needed datasite to understand the ne
 Github API rest V3 <br />
 Pygithub library <br />
 
-for the dataset extracted using the code described in the notebook that is converted to html page : 
+for the dataset that extracted using the code described in the notebook that is converted to html page : 
 <a href="https://drive.google.com/open?id=1oK0eK5eCIBMf8_HuQ19cIhjBpPASkq7N">Dataset</a>
